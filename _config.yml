@@ -1,1 +1,3 @@
-
+# 2 type of themes: local and remote 
+# for use of remote theme use remote_theme pre annotation. Remote themse are not officialy supported by GitHub (support department)
+theme: jekyll-theme-cayman
