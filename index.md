@@ -4,7 +4,6 @@
 
 layout: page
 title: FFLIB Redefined
-permalink: /home/
 ---
 
 # Hello!
