@@ -17,9 +17,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: FFLIB Redefined
+title: D|FFLIB
 email: your-email@example.com
-description: A Salesforce enterprise design patterns framework like not other!
+description: A Salesforce enterprise design patterns framework like no other!
 url: "mariussnijder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/fflib-poc" # the subpath of your site, e.g. /blog
 twitter_username: jekyllrb
